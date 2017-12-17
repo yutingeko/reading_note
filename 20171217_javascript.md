@@ -1,6 +1,6 @@
-﻿
-##javascript 資料結構及演算法實作##
-###chapter 1  簡介###
+
+## javascript ##
+### chapter 1  簡介 ###
 > 在關閉body標籤前引入javascript code
 > 這樣瀏覽器會在載入腳本前解析＆顯示HTML，有利提升頁面效能
 
@@ -21,7 +21,7 @@
 
 other reference: [MDN-javascript-Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
-###chapter 2 Array###
+### chapter 2 Array ###
 Array Methods: **splice vs. slice**
 
     /* splice */
