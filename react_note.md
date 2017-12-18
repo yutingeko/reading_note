@@ -2,7 +2,8 @@
 for(let i = 0; 1<10; 1++) {
   let i = 10;
   console.log(i);
-}```
+}
+```
 
 以作用域來看可以看作...
 
@@ -33,7 +34,6 @@ for(let i = 0; 1<10; 1++) {
 ```
 
 > component 無法trigger event //沒有tirgger 或是 emit
-
 > arrow function 使用時function自動bind.(this)
 
 ```
